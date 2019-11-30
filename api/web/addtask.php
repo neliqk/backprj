@@ -12,7 +12,7 @@
             <div id="links">
                 <ul>
                     <li><a href="viewtasks.php"><h2>Просмотреть список задач</h2></a></li>
-                    <li><a href="index.php"><h2>Главная страница</h2></a></li>
+                    <li><a href="index.html"><h2>Главная страница</h2></a></li>
                 </ul>
             </div>
             <div id="main">

@@ -11,7 +11,7 @@
             </div>
             <div id="links">
                 <ul>
-                    <li><a href="index.php"><h2>Главная страница</h2></a></li>
+                    <li><a href="index.html"><h2>Главная страница</h2></a></li>
                     <li><a href="addtask.php"><h2>Добавить новую задачу</h2></a></li>
                 </ul>
             </div>
