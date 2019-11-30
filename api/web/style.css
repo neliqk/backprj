@@ -24,6 +24,11 @@ body{
     max-height: 1000px;
     background-color: darkgray;
 }
+#main h1{
+    text-align: center;
+    color: white;
+    padding: 50px 0px 0px 0px;
+}
 #links{
     background-color: lightgray;
 }
