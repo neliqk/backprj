@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: gray;
+}
+#container{
+    min-width: 1000px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+#header{
+    height: 100px;
+    background-color: darkgray;
+}
+#header h1{
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+#main{
+    min-height: 300px;
+    max-height: 1000px;
+    background-color: darkgray;
+}
+#links{
+    background-color: lightgray;
+}
+#links a{
+    text-decoration: none;
+    color: white;
+}
+#links a:hover{
+    color: black;
+}
+#links ul{
+    text-align: center;
+}
+#links li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 0px 50px 0px 50px;
+}
+#content{
+    width: 600px;
+    margin: 0 auto;
+}
+#content h1{
+    text-align: center;
+    color: green;
+    padding: 50px 0px 0px 0px;
+}
+#content form{
+    text-align: center;
+    padding: 50px 0px 0px 0px;
+}
+#content ul{
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+}
+#content li{
+    list-style-type: none;
+    background-color: white;
+    text-align: left;
+    height: 50px;
+}
+#content p{
+    padding: 15px;
+}
+#content button{
+    float: right;
+    margin: 0px 10px 0px 0px;
+}
