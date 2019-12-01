@@ -21,16 +21,7 @@
                         <li>
                             <p>
                                 <b>Задача 1.</b>
-                                <a href=""><button>Удалить задачу</button></a>
-                                <a href=""><button>Задача выполнена</button></a>
-                            </p>
-                        </li>
-                    </ul>
-                    <ul>
-                        <li>
-                            <p>
-                                <b>Задача 2.</b>
-                                <a href=""><button>Удалить задачу</button></a>
+                                <a href="/deletetask.php?id="><button>Удалить задачу</button></a>
                                 <a href=""><button>Задача выполнена</button></a>
                             </p>
                         </li>

@@ -17,7 +17,7 @@
             </div>
             <div id="main">
                 <div id="content">
-                    <form>
+                    <form method="POST" action="../modules/createtask.php">
                         <input type="text" name="task" id="task" placeholder="Название задачи..." size="30">
                         <input type="submit" name="sendtask" id="sendtask" value="Добавить задачу">
                     </form>
